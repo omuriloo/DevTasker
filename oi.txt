@@ -1,0 +1,5 @@
+comecei a fazer a parte do repositories e controller do usuario, 
+mas pro controller faltou o login com jwt, vou tentar fazer amanhã (hoje é 21/04)
+
+e também baixei o node_modules, nao sei se era pra baixar, mas se eu nao baixasse 
+ia dar erro no meu código

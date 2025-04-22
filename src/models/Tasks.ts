@@ -25,8 +25,6 @@ export class Tasks {
   @JoinColumn({ name: "userid"})  //isso aqui define qual coluna da tabela vai ser a chave estrangeira.
   user: User;
 
-
-
   constructor(title: string, description: string, status: string, deliverydate: string, userid: number){
     this.title = title;
     this.description = description;
